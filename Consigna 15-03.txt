@@ -1,0 +1,14 @@
+Ej 1) Escriba una clase con un método que calcule el costo de una multa por exceso de velocidad en una autopista. Las reglas son las siguientes:
+- De 0 a 60km/h: Multa de 300 pesos por velocidad por debajo del límite.
+- Entre 60 y 120km/h: No hay multa.
+- Entre 120 y 140km/h: Multa de 300 pesos por exceso de velocidad.
+- Entre 140 y 180km/h: Multa de 600 pesos.
+- Mayor que 180km/h: Multa de 1000 pesos.
+
+Ej 2) Crear una clase "Forma" la cual contenga la cantidad de lados y el área de una forma geométrica como parámetros de la misma. Allí crearemos dos métodos que reciban un objeto de la clase "Forma" y determinen si es igual a si misma. Uno de los métodos evaluará solo la cantidad de lados y el otro ambos parámetros.
+
+if(Parámetro1 == Parámetro2)   o if(Parámetro1 != Parámetro2)
+{
+}
+
+this.
